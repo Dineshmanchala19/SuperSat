@@ -46,13 +46,15 @@ Open in browser:
 
 http://127.0.0.1:5000
 
-📸 Screenshots (Optional)
+📸 Screenshots :
 
 👉 (Here you can add images of your About Page, Dashboard, or Super-Resolution results.)
 
 ![SuperSat About Page](SuperSat.png)
 ![SuperSat Dashboard](2.png)
 ![SuperSat Dashboard](3.png)
+![Super-Resolution results](4.png)
+![Super-Resolution results](5.png)
 
 📜 License
 
