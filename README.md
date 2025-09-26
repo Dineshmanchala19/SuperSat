@@ -26,7 +26,7 @@ Version Control:
 
 Clone the repo:
 
-git clone https://github.com/Lakshmibhavaniyepuri/SuperSat.git
+git clone [https://github.com/Dineshmanchala19/SuperSat.git]
 cd SuperSat
 
 
