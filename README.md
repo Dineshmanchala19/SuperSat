@@ -14,7 +14,7 @@
 📂 Tech Stack
 
 Frontend:
-        HTML, CSS, TailwindCSS
+        HTML, CSS, TailwindCSS,Reactjs
         JavaScript (animations + interactivity)
 Backend:
         Flask (Python)
