@@ -101,7 +101,7 @@ factor = 2
 
 @app.route("/")
 def index():
-    return render_template("index.html")
+    return "SuperSat is running"
 
 @app.route("/about")
 def about():
